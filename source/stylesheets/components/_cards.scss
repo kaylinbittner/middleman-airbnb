@@ -17,7 +17,8 @@
   position: absolute;
   top: 10px;
   left: 10px;
-  font-size: 15px;
+  font-size: 25px;
+  font-weight: bold;
   text-transform: uppercase;
 }
 .card-description {
@@ -26,12 +27,13 @@
   left: 10px;
 }
 .card-description h2 {
-  font-size: 24px;
+  font-size: 35px;
+  font-weight: bold;
 }
 .card-description p {
-  font-size: 14px;
+  font-size: 20px;
   opacity: 0.7;
-  font-weight: lighter;
+  font-weight: bolder;
 }
 .card-link {
   position: absolute;
