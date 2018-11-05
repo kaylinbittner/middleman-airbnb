@@ -1,0 +1,21 @@
+timkurtbob:
+  name: "Tim's home"
+  description: Charming room in Montmartre
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: false
+  rating: 4
+kaylinbittner:
+  name: "Kaylin's home"
+  description: Small flat in the City Center
+  city_name: "Mexico City, Mexico"
+  city_slug: "mexico"
+  wifi: true
+  rating: 3
+samb753:
+  name: Sam's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
